@@ -1,0 +1,1 @@
+In this repository I'm just creating new projects with different frameworks to see how they work and their folder structures
